@@ -1,6 +1,6 @@
 ### Hi! This is Guto👋
 
-- 💻  Currently building Web3 technologies @ ConsenSys | MetaMask 🦊
+- 💻  Currently building Web3 technologies @ Consensys | MetaMask 🦊
 - 📊  ex-Data engineer @ MACH
 - 📱  ex-iOS mobile engineer @ MACH
 
