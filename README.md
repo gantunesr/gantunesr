@@ -8,4 +8,4 @@
 
 ## Reach me
 
-[LinkedIn](linkedin.com/in/gustavo-a-r/)
+[LinkedIn](https://www.linkedin.com/in/gustavo-a-r/)
